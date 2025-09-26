@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "grammy": "^1.38.2",
+    "mathjs": "^14.7.0"
+  }
+}
